@@ -1,0 +1,9 @@
+.env
+rfo_data.json
+rfo_data_backup_*.json
+__pycache__/
+*.pyc
+*.log
+.Python
+venv/
+.venv/
