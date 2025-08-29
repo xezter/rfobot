@@ -1,0 +1,269 @@
+{
+  "free_agency_open": true,
+  "scrim_data": {
+    "1409017671483396259": {
+      "gamelink": "https://www.roblox.com/share?code=e2aa09ab8f9d9749b06ecbffbdd283f1&type=Server",
+      "max_players": 8,
+      "organizer": 1005981465391140977,
+      "channel_id": 1405640044487643216,
+      "completed": false,
+      "confirmed_users": [
+        1005981465391140977,
+        1102418577014931610,
+        1212949228402376745,
+        860672787701956629,
+        1355146584559718470,
+        1256356701096116367
+      ],
+      "created_at": "2025-08-24T03:33:12.083770+00:00",
+      "reinforce_count": 0
+    },
+    "1409635722935144478": {
+      "gamelink": "https://www.roblox.com/share?code=95027596e3f87d458b1e86bbd21cd74e&type=Server",
+      "max_players": 12,
+      "organizer": 1308936986131828827,
+      "channel_id": 1405640044487643216,
+      "completed": true,
+      "confirmed_users": [
+        1308936986131828827,
+        1261773441850277910,
+        1396518014270181509,
+        1096417373143179264,
+        735677544585756682,
+        1098365494219788428,
+        1291898310717734924,
+        1400146688328335530,
+        1388313731116568798,
+        1274418771230195757,
+        1346532329459421274,
+        1122284058970443827
+      ],
+      "created_at": "2025-08-25T20:29:08.944525+00:00",
+      "reinforce_count": 3,
+      "reinforce_messages": [
+        1409637015644803072,
+        1409637882561429585,
+        1409638602727493632
+      ],
+      "lotada_message_id": 1409638664052412600
+    }
+  },
+  "offer_data": {},
+  "contracted_players": {
+    "1328536674581610496": {
+      "team": "Athletico Paranaense",
+      "position": "mc,atk",
+      "environment": ".",
+      "contractor": 1343983898044006450,
+      "contract_date": "2025-08-24T02:53:42.124008+00:00",
+      "contract_id": 1409007705020039362
+    },
+    "1054433065067352184": {
+      "team": "Atlético Mineiro",
+      "position": "cam",
+      "environment": "nao sei",
+      "contractor": 954894946240974858,
+      "contract_date": "2025-08-24T02:55:31.196359+00:00",
+      "contract_id": 1409007261283782819
+    },
+    "901845984949202984": {
+      "team": "Atlético Mineiro",
+      "position": "cdm/cam",
+      "environment": "titular",
+      "contractor": 954894946240974858,
+      "contract_date": "2025-08-24T03:38:18.646605+00:00",
+      "contract_id": 1409018754188316752
+    },
+    "1175238034258657320": {
+      "team": "Palmeiras",
+      "position": "mei",
+      "environment": "titular absoluto",
+      "contractor": 1336423141630541947,
+      "contract_date": "2025-08-24T15:00:28.629758+00:00",
+      "contract_id": 1409181324555587697
+    },
+    "1363206649011241092": {
+      "team": "Paysandu",
+      "position": "st",
+      "environment": "sla",
+      "contractor": 1001884695367254129,
+      "contract_date": "2025-08-24T15:41:50.013772+00:00",
+      "contract_id": 1409200578973663314
+    },
+    "1320594661043081227": {
+      "team": "Vasco",
+      "position": "cb",
+      "environment": "titular absoluto",
+      "contractor": 1316783588359933993,
+      "contract_date": "2025-08-24T17:00:39.500658+00:00",
+      "contract_id": 1409220668666675210
+    },
+    "1309841165708689518": {
+      "team": "Vasco",
+      "position": "cb/mc",
+      "environment": "titular",
+      "contractor": 1316783588359933993,
+      "contract_date": "2025-08-24T17:16:29.715313+00:00",
+      "contract_id": 1409224620137119805
+    },
+    "1271933352244543613": {
+      "team": "Bahia",
+      "position": "cdm",
+      "environment": "TITULAR",
+      "contractor": 1316952821899460699,
+      "contract_date": "2025-08-24T17:36:19.757494+00:00",
+      "contract_id": 1409229650311512255
+    },
+    "1383594501154672812": {
+      "team": "Bahia",
+      "position": "cm",
+      "environment": "TITULAR",
+      "contractor": 1316952821899460699,
+      "contract_date": "2025-08-24T17:37:56.568557+00:00",
+      "contract_id": 1409230019015999570
+    },
+    "962038735724236880": {
+      "team": "Vasco",
+      "position": "cb",
+      "environment": "titular",
+      "contractor": 1316783588359933993,
+      "contract_date": "2025-08-24T17:51:52.797491+00:00",
+      "contract_id": 1409218841547903109
+    },
+    "682705060978753596": {
+      "team": "Paysandu",
+      "position": "cb",
+      "environment": "titular",
+      "contractor": 1001884695367254129,
+      "contract_date": "2025-08-24T17:58:19.041317+00:00",
+      "contract_id": 1409235362769014966
+    },
+    "524287852582797312": {
+      "team": "Athletico Paranaense",
+      "position": "cdm/mc",
+      "environment": "disputar vaga",
+      "contractor": 1343983898044006450,
+      "contract_date": "2025-08-24T18:33:41.904862+00:00",
+      "contract_id": 1409239942629949520
+    },
+    "818280902747750441": {
+      "team": "Athletico Paranaense",
+      "position": "gk",
+      "environment": "disputar posicao",
+      "contractor": 1343983898044006450,
+      "contract_date": "2025-08-24T18:48:15.545972+00:00",
+      "contract_id": 1409247941666930829
+    },
+    "1400146688328335530": {
+      "team": "Athletico Paranaense",
+      "position": "cdm/cm/cam",
+      "environment": "disputar posição",
+      "contractor": 1343983898044006450,
+      "contract_date": "2025-08-24T19:38:49.046686+00:00",
+      "contract_id": 1409247386538213457
+    },
+    "1371982182507221012": {
+      "team": "Botafogo",
+      "position": "cb",
+      "environment": "subs, se ir bem vai ser titular",
+      "contractor": 1327814368015941683,
+      "contract_date": "2025-08-24T22:10:56.567370+00:00",
+      "contract_id": 1409297251737796698
+    },
+    "860672787701956629": {
+      "team": "Corinthians",
+      "position": "cb",
+      "environment": "reserva",
+      "contractor": 1052994646948716646,
+      "contract_date": "2025-08-25T01:38:19.437992+00:00",
+      "contract_id": 1409348399886635088
+    },
+    "1406132234020454521": {
+      "team": "Botafogo",
+      "position": "cdm",
+      "environment": "titular",
+      "contractor": 1327814368015941683,
+      "contract_date": "2025-08-25T03:17:24.847270+00:00",
+      "contract_id": 1409368718076543038
+    },
+    "1013257655667675247": {
+      "team": "Palmeiras",
+      "position": "all",
+      "environment": "trial",
+      "contractor": 1336423141630541947,
+      "contract_date": "2025-08-25T16:20:19.266683+00:00",
+      "contract_id": 1409562255699214548
+    },
+    "946703989444055050": {
+      "team": "Bahia",
+      "position": "cm",
+      "environment": "TITULAR",
+      "contractor": 1316952821899460699,
+      "contract_date": "2025-08-26T20:48:48.347764+00:00",
+      "contract_id": 1410003051888251071
+    },
+    "1114266814361378886": {
+      "team": "Bahia",
+      "position": "CB",
+      "environment": "reserva",
+      "contractor": 1316952821899460699,
+      "contract_date": "2025-08-26T20:50:57.418609+00:00",
+      "contract_id": 1410003598338953403
+    },
+    "842792574031888424": {
+      "team": "Bahia",
+      "position": "st",
+      "environment": "TITULAR",
+      "contractor": 1316952821899460699,
+      "contract_date": "2025-08-26T20:52:18.330633+00:00",
+      "contract_id": 1410003859337777285
+    },
+    "1308936986131828827": {
+      "team": "Palmeiras",
+      "position": "st",
+      "environment": "titular",
+      "contractor": 1336423141630541947,
+      "contract_date": "2025-08-26T23:18:26.591949+00:00",
+      "contract_id": 1410038279629439028
+    },
+    "1254479142116786230": {
+      "team": "Palmeiras",
+      "position": "MC/st",
+      "environment": "titular",
+      "contractor": 1336423141630541947,
+      "contract_date": "2025-08-26T23:21:23.278365+00:00",
+      "contract_id": 1410024913670242344
+    }
+  },
+  "team_managers": {
+    "Corinthians": 1052994646948716646,
+    "Santos": 1378798984893567056,
+    "Fluminense": 1382027228895907950,
+    "Palmeiras": 1336423141630541947,
+    "Mirassol": 1189635898950811658,
+    "Vasco": 1316783588359933993,
+    "Grêmio": 1192499002827083788,
+    "Cruzeiro": 1242636966189858899,
+    "Bahia": 1316952821899460699,
+    "Athletico Paranaense": 1343983898044006450,
+    "Internacional": 1248803651921641513,
+    "Paysandu": 1001884695367254129,
+    "Atlético Mineiro": 954894946240974858,
+    "São Paulo": 1164960075660677150,
+    "Botafogo": 1327814368015941683,
+    "Flamengo": 1153426853793632388
+  },
+  "user_recommend_count": {
+    "1388651583260201031": 2,
+    "1223290556302626959": 1,
+    "1308936986131828827": 2,
+    "1096417373143179264": 1,
+    "524287852582797312": 1,
+    "1087404639131021352": 1,
+    "1005981465391140977": 1
+  },
+  "user_recommend_targets": {
+    "1388651583260201031": [],
+    "1223290556302626959": []
+  }
+}
